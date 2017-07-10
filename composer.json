@@ -1,0 +1,29 @@
+{
+    "name": "abei2017/yii2-bankcard-info",
+    "description": "银行卡卡号分析",
+    "type": "yii2-extension",
+    "keywords": ["yii2","bank card"],
+    "license": "Apache-2.0",
+    "support": {
+        "issues": "https://github.com/abei2017/yii2-bankcard-info/issues",
+        "forum": "http://nai8.me/ext/bank-index.html",
+        "source": "https://github.com/abei2017/yii2-bankcard-info"
+    },
+    "authors": [
+        {
+            "name": "abei",
+            "email": "abei@nai8.me"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0",
+        "yiisoft/yii2": "~2.0.0",
+        "yiisoft/yii2-httpclient": "^2.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "abei2017\\bankcardInfo\\": "src"
+        }
+    },
+
+}
