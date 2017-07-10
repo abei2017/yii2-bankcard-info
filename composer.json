@@ -24,6 +24,6 @@
         "psr-4": {
             "abei2017\\bankcardInfo\\": "src"
         }
-    },
+    }
 
 }
