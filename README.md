@@ -1,22 +1,24 @@
-bankcard-info
+abei2017/yii2-bankcard-info
 =============
-银行卡卡号分析
+支持国内数百家银行的卡面分析，可以使用composer直接安装。
+4-32-1
 
-Installation
+安装步骤
 ------------
 
-The preferred way to install this extension is through [composer](http://getcomposer.org/download/).
+你可以通过composer直接进行安装
 
-Either run
+执行
 
 ```
-php composer.phar require --prefer-dist abei2017/yii2-bankcard-info
+php composer.phar require --prefer-dist abei2017/yii2-bankcard-info // or composer require --prefer-dist abei2017/yii2-bankcard-info
+
 ```
 
-or add
+或者在composer.json中添加
 
 ```
 "abei2017/yii2-bankcard-info"
 ```
 
-to the require section of your `composer.json` file.
+然后执行 composer install
