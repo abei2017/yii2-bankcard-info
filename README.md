@@ -1,7 +1,12 @@
 abei2017/yii2-bankcard-info
 =============
 支持国内数百家银行的卡面分析，可以使用composer直接安装。
-4-32-1
+
+
+<img class="latest_stable_version_img" src="https://poser.pugx.org/abei2017/yii2-bankcard-info/v/stable">
+<img class="total_img" src="https://poser.pugx.org/abei2017/yii2-bankcard-info/downloads">
+<img class="latest_unstable_version_img" src="https://poser.pugx.org/abei2017/yii2-bankcard-info/v/unstable">
+<img class="license_img" src="https://poser.pugx.org/abei2017/yii2-bankcard-info/license">
 
 安装步骤
 ------------
